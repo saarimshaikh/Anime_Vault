@@ -6,6 +6,9 @@
 - This website fetches the data from API: https://shikimori.one/api/doc/1.0/animes/index
 - It contains an infinite scroll that fetches data in the set of 8 "API CALL".
 
+### Project Demo
+https://github.com/saarimshaikh/Anime_Vault/assets/65160026/13ab2f42-3e78-4376-9f24-476759e137d9
+
 ### Project Deployed on:
 https://anime-vault-sage.vercel.app/
 
